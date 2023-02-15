@@ -1,107 +1,93 @@
-1.	Write the full name of the UK.__________________________________________________
-2.	Write the capital of Northern Ireland.___________________________________________
-3.	Write the capital of Scotland.________________________________________________
-4.	Write  the capital of Wales.______________________________________________________
-5.	Write the capital of England ______________________________________________________
-6.	Who is the head of the state?______________________________________________________
-7.	What are the symbols of England, Wales, Scotland and Northern Ireland?___________________
-8.	Write does the UNION JACK stand for?_______________________________________________
-9.	Name the main ethnic groups of the UK ______________________________________________
-10.	What is the population of the UK? __________________________________________________
-11.	What are the main rivers of the UK?_________________________________________________
-12.	Where is London situated? ________________________________________________________
-13.	Name the places of interest from London.____________________________________________
-14.	What are the main industries in England?_____________________________________________
-15.	What are the main political parties in the UK?_________________________________________
-16.	What river flows in London? ______________________________________________________
-17.	Write the largest islands of the UK._________________________________________________
-18.	What separates the UK form Europe? ______________________________________________
-19.	What kind of monarchy is the UK? ________________________________________________
-20.	What Houses does the British Parliament consist of?___________________________________
-21.	Who is elected every 5 years? ___________________________________________________
-22.	Who are the members of the House of Parliament? ________________________________
-23.	What seas is the UK washed by? ___________________________________________________
-24.	What other languages besides English are spoken in the UK? ____________________________
-25.	Name the mountains from the UK.__________________________________________________
-26.	Where is the USA situated.________________________________________________________
-27.	Write the full name of the USA. ____________________________________________________
-28.	What is the capital of the USA? ____________________________________________________
-29.	What are the main national symbols of USA? (at least 5 symbols)________________________
-30.	Who is the chief of state?________________________________________________________
-31.	How many nationalities are in the USA?____________________________________________
-32.	What is the population of the USA?________________________________________________
-33.	Name the main cities from the USA._______________________________________________
-34.	What are the main rives form the USA?_____________________________________________
-35.	What the main industries inthe USA?_______________________________________________
-36.	What does “THE STARS AND STRIPES” stand for?______________________________________
-37.	What do the stripes and stars represent?____________________________________________
-38.	Name the places of interest from the USA.__________________________________________
-39.	What is the official language in US?__________________________________________________
-40.	What is the population of US?______________________________________________________
-41.	Name the most important holidays in the USA.________________________________________
-42.	What does the Great Seal stand for?________________________________________________
-43.	What do you know about Bald Eagle?________________________________________________
-44.	What are the main political parties from US?__________________________________________
-45.	What is the Senate?______________________________________________________________
-46.	What is the symbol of the Democratic Party?__________________________________________
-47.	What is the symbol of the Republican Party?__________________________________________
+The full name of the UK is United Kingdom of Great Britain and Northern Ireland.
 
+The capital of Northern Ireland is Belfast.
 
+The capital of Scotland is Edinburgh.
 
- United Kingdom
-    Belfast
-    Edinburgh
-    Cardiff
-    London
-    The current head of state is Queen Elizabeth II.
-    England - Three Lions, Wales - Red Dragon, Scotland - Unicorn, Northern Ireland - Flax
-    The Union Jack is the flag of the UK, combining the flags of England, Scotland, and Northern Ireland.
-    The main ethnic groups in the UK are White British, Asian, Black, and Mixed.
-    As of 2021, the population of the UK is around 68 million people.
-    The main rivers of the UK include the Thames, Severn, Trent, and Clyde.
-    London is situated in the southeast of England.
-    Places of interest in London include the Tower of London, Buckingham Palace, the British Museum, and the London Eye.
-    The main industries in England include finance, manufacturing, and tourism.
-    The main political parties in the UK are the Conservative Party, Labour Party, Liberal Democrats, and Scottish National Party.
-    The River Thames flows in London.
-    The largest islands of the UK are Great Britain, Ireland, and a number of smaller surrounding islands.
-    The English Channel separates the UK from Europe.
-    The UK has a constitutional monarchy.
-    The British Parliament consists of two houses, the House of Commons and the House of Lords.
-    Members of the House of Commons are elected every 5 years.
-    Members of the House of Parliament include Members of Parliament (MPs) from the House of Commons and peers from the House of Lords.
-    The UK is washed by several seas, including the North Sea, Irish Sea, and English Channel.
-    Other languages besides English that are spoken in the UK include Welsh, Scottish Gaelic, and Irish.
-    Mountains in the UK include Ben Nevis, Snowdon, and Scafell Pike.
-    The USA is situated in North America.
-    The full name of the USA is the United States of America.
-    The capital of the USA is Washington D.C.
-    Main national symbols of the USA include the American flag, bald eagle, Statue of Liberty, Great Seal, and national anthem.
-    The chief of state in the USA is the President.
-    There is no official count of nationalities in the USA, but it is estimated that there are over 300 different ethnic groups.
-    As of 2021, the population of the USA is around 332 million people.
-    Some main cities in the USA include New York City, Los Angeles, Chicago, Houston, and Miami.
-    The main rivers in the USA include the Mississippi, Colorado, and Columbia.
-    The main industries in the USA include technology, finance, healthcare, and manufacturing.
-    "The Stars and Stripes" is a nickname for the American flag.
-    The stripes on the American flag represent the 13 original colonies, while the stars represent the current 50 states.
-    Some places of interest in the USA include the Grand Canyon, Statue of Liberty, Golden Gate Bridge, Disney World, and Niagara Falls.
-    English is the official language in the USA.
-    As of 2021, the population of the USA is around 332 million people.
-    Some important holidays in the USA include Independence Day, Thanksgiving, Christmas, and Labor Day.
-    The Great Seal of the USA represents the official coat of arms and is used to authenticate certain official documents.
-    The bald eagle is a bird of prey and is the national bird and symbol of the USA.
-    The main political parties in the USA are the Democratic Party and the Republican Party.
-    The Senate is one of the two houses of the United States Congress, with the other being the House of Representatives.
-Senators serve six-year terms and are elected from each state, with two senators per state.
-The President of the United States is elected through the Electoral College system, in which each state is allocated a number of electors based on their representation in Congress.
-The Vice President of the United States is the second-highest ranking official in the executive branch.
-The Supreme Court of the United States is the highest court in the country, with nine justices appointed for life by the President.
-The United States has a federal system of government, with power divided between the federal government and individual states.
-Some of the major landmarks in the USA include the Statue of Liberty, Mount Rushmore, the Grand Canyon, and Yellowstone National Park.
-The United States is known for its cultural diversity, with people from all over the world living and working in the country.
-Some of the largest ethnic groups in the USA include White Americans, African Americans, and Hispanic Americans.
-The USA is also known for its contributions to science, technology, and innovation, with many of the world's top universities and research institutions located in the country.
-Sports are an important part of American culture, with football, baseball, and basketball being some of the most popular sports in the country.
-The United States is also known for its cuisine, with a wide variety of dishes influenced by different cultures and regions.
-Overall, the USA is a vast and diverse country with a rich history and culture, and is a major player on the global stage in terms of politics, economics, and culture.
+The capital of Wales is Cardiff.
+
+The capital of England is London.
+
+The head of the state is currently Charles III.
+
+The symbols of England, Wales, Scotland, and Northern Ireland are respectively: St. George's Cross, Welsh Dragon, St. Andrew's Cross, and the Red Hand of Ulster.
+
+The Union Jack represents the union of England, Scotland, and Ireland.
+
+The main ethnic groups of the UK include White British, Asian, Black, and Mixed ethnicities.
+
+The population of the UK is approximately 68 million.
+
+The main rivers of the UK include the Thames, Severn, and Trent.
+
+London is situated in the southeastern part of England.
+
+Places of interest in London include the Tower of London, Buckingham Palace, and the British Museum.
+
+The main industries in England include services, manufacturing, and finance.
+
+The main political parties in the UK are the Conservative Party, Labour Party, and Liberal Democrats.
+
+The river that flows through London is the Thames.
+
+The largest islands of the UK are Great Britain and Ireland.
+
+The English Channel separates the UK from Europe.
+
+The UK is a constitutional monarchy.
+
+The British Parliament consists of the House of Commons and the House of Lords.
+
+Members of the House of Commons are elected every 5 years.
+
+Members of the House of Parliament include MPs (Members of Parliament) and Lords.
+
+The UK is washed by several seas including the North Sea, Irish Sea, and English Channel.
+
+Other languages besides English that are spoken in the UK include Welsh, Scottish Gaelic, and Irish.
+
+Mountains in the UK include the Scottish Highlands, Snowdonia in Wales, and the Lake District in England.
+
+The USA is situated in North America.
+
+The full name of the USA is United States of America.
+
+The capital of the USA is Washington, D.C.
+
+The main national symbols of the USA include the American flag, the bald eagle, the Statue of Liberty, the Great Seal of the United States, and the national anthem.
+
+The chief of state is currently President Joe Biden.
+
+There is no exact number of nationalities in the USA, but it is estimated that there are over 300.
+
+The population of the USA is approximately 332 million.
+
+Main cities in the USA include New York, Los Angeles, Chicago, Houston, and Philadelphia.
+
+The main rivers in the USA include the Mississippi, Colorado, and Rio Grande.
+
+The main industries in the USA include manufacturing, technology, and finance.
+
+"The Stars and Stripes" is another name for the American flag.
+
+The stripes represent the 13 original colonies, while the stars represent the current 50 states of the USA.
+
+Places of interest in the USA include the Grand Canyon, Yellowstone National Park, the Golden Gate Bridge, and the Empire State Building.
+
+The official language in the US is English.
+
+The population of the US is approximately 332 million.
+
+The most important holidays in the USA include Independence Day, Thanksgiving, and Christmas.
+
+The Great Seal of the United States represents the authority and sovereignty of the US government.
+
+The Bald Eagle is a bird of prey and is also the national bird and symbol of the USA.
+
+The main political parties in the US are the Democratic Party and the Republican Party.
+
+The Senate is one of the two houses of the United States Congress, the other being the House of Representatives.
+
+The symbol of the Democratic Party is a donkey.
+
+The symbol of the Republican Party is an elephant.
