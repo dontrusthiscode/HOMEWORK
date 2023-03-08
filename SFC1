@@ -1,0 +1,78 @@
+
+Bazele sistemelor de operare
+Tema 1.1. Introducere în sisteme de operare
+Sistemul de operare este un pachet de programe care asigură gestionarea eficientă a resurselor
+fizice şi logice ale unui sistem de calcul, precum şi o interfaţă între utilizator şi calculator. Adică, sistemul
+de operare reprezintă legătura dintre echipamentul fizic şi utilizator. Acest program (numit OS),
+controlează funcţiile calculatorului şi interpretează cerinţele şi comenzile utilizatorului.
+Scopul unui sistem de operare este să asigure stabilitate şi flexibilitate în funcţionarea
+calculatorului.
+Figura 1. Poziţia sistemului de operare între hardware şi utilizator
+Primele sisteme de operare au apărut prin anii 70, cum ar fi DOS-ul sau UNIX-ul. Acestea
+funcționau diferit faţă de cele actuale, fără interfaţă grafică şi fără prea multe capabilităţi.
+Istoria Microsoft a început prin cumpărarea inițial a lui QDOS şi crearea sistemului de operare
+MS-DOS. Au urmat apoi, deferitele versiuni Windows de la 1.0 şi până la XP sau mai nou Windows 10.
+Actualele sisteme de operare, indiferent de producător sau versiune, toate realizează un șir de
+funcţii, ca:
+❖ asigură comunicarea între utilizator şi SO;
+❖ asigură controlul execuţiei programelor (încarcă programele în memoria internă, le lansează
+în execuție şi încheie execuția acestora) - rularea aplicaţiilor se realizează prin intermediul unor
+servicii oferite de OS aplicaţiilor. Aplicaţiile accesează aceste servicii prin aşa-numitele API-uri
+(Application Programming Interfaces). Exemple de API-uri ar fi OpenGl sau DirectX.
+Sistemul de operare este responsabil şi pentru alocarea de resurse aplicaţiilor, dar şi de gestionarea
+acestor resurse. Alocarea de memorie sau a procesorului unor anumite aplicaţii cade în sarcina
+sistemului de operare, aşa cum şi întreruperea acestor alocări. Întreruperile pot fi cauzate atât de
+terminarea normală a unei aplicaţii cât şi datorită unor erori ale acestora.
+❖ facilitează utilizatorilor dezvoltarea de noi aplicaţii;
+❖ asigură comunicarea cu echipamentele periferice;
+❖ facilitează gestionarea eficientă a datelor;
+❖ detectează şi corectează erorile care apar în procesul de prelucrare;
+❖ asigură securitatea sistemului.
+Utilizator
+Aplicaţie
+OS
+Hardware
+Clasificarea SO se poate face după mai multe criterii:
+❖ În funcţie de numărul de utilizatori la un moment dat:
+1. Monoutilizator (monouser) - permite accesul unui singur utilizator la un moment dat la
+un calculator sau resurse (ex. Windows);
+2. Multiutilizator (multiuser) - permit accesul concurent mai multor utilizatori la acelaşi
+calculator sau resurse (ex. Linux, Unix).
+❖ În funcţie de numărul de programe ce pot fi prezente simultan în memoria calculatorului:
+1. Monoprogram (monotasking) – execută un singur program la un moment dat (ex. MS-
+DOS);
+2. Multiprogram (multitasking) – ex. Windows.
+❖ În funcţie de arhitectura procesorului:
+1. pe 32 biţi (x86)
+2. pe 64 biţi (x64)
+Componentele unui sistem de operare sunt:
+• Nucleul (Kernel) – este componenta principală a sistemului de operare care conţine
+programele necesare pentru gestionarea resurselor calculatorului şi pentru verificarea
+activităţii echipamentelor şi a altor programe. Aşa cum sistemul de operare este interfaţa dintre
+utilizator şi echipamentul fizic, Kernel-ul este legătura dintre aplicaţii şi hardware.
+Figura 2. Kernel-ul, legătura dintre hardware şi aplicaţii
+Există mai multe tipuri de Kernel, fiecare cu implementarea şi modul de funcţionare propriu.
+Diferitele sisteme de operare folosesc fie kernel monolitic, fie microkernel. Primul foloseşte o
+arhitectură în care întregul sistem de operare, împreună cu kernel-ul, folosesc acelaşi zonă de
+memorie, astfel oferind acces mai puternic la echipamentele fizice. În cazul microkernel-ului,
+kernel-ul în sine oferă doar funcţionalităţi de bază pentru rularea de servere care la rândul lor
+îndeplinesc diferitele funcţii de kernel. Această arhitectură permite rularea mai multor sisteme
+de operare pe acelaşi kernel.
+!!! Nucleul nu este o aplicaţie în sine, ci este un mediu în cadrul căruia pot rula alte aplicaţii.
+• Interfaţa (Shell) – defineşte modul în care utilizatorul interacţionează cu sistemul de operare.
+Interfețele pot fi de tip:
+- CLI (Command Line Interface) - prin această interfață utilizatorul introduce
+comenzile sub forma unui şir de caractere care respectă o anumită sintaxă. Prelucrarea
+comenzii se realizează de către un interpretor de comenzi. În cazul în care sintaxa este
+corectă se execută comanda, în caz contrar se afişează un mesaj de eroare.
+- GUI (Graphical User Interface) - folosind interfaţa GUI utilizatorul are la dispoziţie
+meniuri, butoane şi obiecte grafice (pictograme) prin care poate interacţiona cu
+calculatorul. Executarea comenzilor nu se mai face prin sintaxe complicate, ci prin
+Aplicaţii
+Kernel
+UCP Memorie Echipamente
+
+
+
+
+
