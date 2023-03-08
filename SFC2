@@ -1,0 +1,73 @@
+
+Tema: PARTIŢIONAREA HARD-DISK-ULUI
+Un computer pentru a fi util are nevoie de programe care să fie instalate pe HDD. În primul rând are
+nevoie de un sistem de operare şi de driverele componentelor hardware.
+Discul dur (sau fix; în engleză hard disk) este un dispozitiv electronico-mecanic
+pentru stocarea sau memorarea nevolatilă (permanentă) a datelor. Stocarea datelor se
+face pe o suprafață magnetică dispusă pe platane (cercuri de oţel) rotunde metalice
+rigide.
+În general discurile dure sunt utilizate ca suport de stocare extern principal
+pentru servere și calculatoare personale, dar și pentru anumite aparate electronice
+(playere și recordere DVD, playere MP3). Dacă la începuturi capacitatea unui disc dur
+nu depășea 20 megaocteți (MO) = 20 megabait (MB), astăzi (2018) un disc dur
+obișnuit de 2 1/2 țoli poate depăși 10 TB.
+Pentru ca un hard-disk să poată stoca software necesare funcţionării calculatorului, iar mai apoi
+fişierele şi datele cu care se operează pe acel calculator, este necesar ca acel hard-disk să fie formatat, şi în
+funcţie de necesităţi şi partiţionat.
+O partiţie reprezintă o diviziune
+logică a unui disc fizic, care conţine un
+anumit sistem de fişiere stabilit cu
+ocazia formatării. Atunci când pe un
+calculator se instalează mai multe
+sisteme de operare, este absolut
+necesară crearea mai multor partiţii
+atribuite fiecărui sistem în parte. Dar şi în cazul unui singur sistem de operare pot fi necesare existenţa mai
+multor partiţii.
+Deosebim următoarele tipuri de partiţii, în funcție de sisteme de fişiere:
+ partiţia cu date: conţine fişierele normale ale SO necesare pentru a porni şi rula sistemul,
+comenzile de bază, biblioteci sistem, fişiere ale utilizatorilor etc.
+ partiţia swap: aici sunt ţinute toate informaţiile care trec din memoria RAM pe hard-disk
+eliberând-o pentru alte aplicaţii.
+În cazul unui sistem Windows, crearea mai multor partiţii duce la o mai bună organizare a fişierelor pe
+hard-disk şi implicit la o viteză mai mare de accesare şi gestionare a lor.
+Sistemele de fişiere diferă de la un sistem de operare la altul, chiar existând serioase incompatibilităţi
+între ele. De exemplu sistemele de operare care utilizează una dintre sistemele de fişiere FAT nu vor putea
+gestiona partiţiile cu sistemul de fişiere NTFS, ne mai vorbind de sistemele de fişiere EXT pentru
+Linux/UNIX.
+În funcţie de sistemul de operare care urmează să fie instalat pe hard-disk, partiţiile acestuia pot fi
+formatate pentru a găzdui următoarele sisteme de fişiere:
+ vfat - sistem de fişiere Windows;
+ FAT16 - sistem de fişiere MS-DOS;
+ FAT32 - sistem de fişiere Windows pe 32 bit;
+ NTFS - noul sistem de fişiere Windows 2000/XP și mai sus;
+ EXT2 - sistemul clasic de fişiere Linux, compatibil cu standardele UNIX;
+ EXT3 - sistem de fişiere mai nou, bazat pe ext2, cu suport pentru jurnalizare.
+După partiţionarea hard-disk-ului - MS-DOS, Linux, OS X sau Windows vor avea fiecare partiţia lor
+specială. Sistemele de calcul cu două sisteme de operare instalate sunt sisteme Dual-Boot, iar în cazul cu trei
+și mai multe sisteme de operare - Multi-Boot.
+Partițiile pentru SO Windows sunt de trei feluri: partiția primară ("primary"), partiția extinsă
+("extended") și discurile logice ("logical drives"). Acestea din urma sunt incluse în partiția extinsă.
+Partiționarea se face foarte ușor în modul DOS cu ajutorul utilitarului FDISK. În cazul SO Windows XP şi
+mai sus, partiţionarea se face direct din mediul Windows.
+Tabele de partiții:
+ MBR provine de la Master Boot Record şi reprezintă standardul vechi (pe 32 de biţi) pentru
+administrarea partiţiilor hardului. Aici sunt memorate informaţii despre organizarea partiţiilor,
+dar şi codul executabil ce încarcă sistemul de operare. A fost cel mai răspândit în trecut (fiind
+lansat de IBM încă din anul 1983) şi este încă extrem de utilizat şi în ziua de azi.
+MBR permite:
+− doar 4 partiţii primare, mai multe partiţii putând fi făcute cu ajutorul unei partiţii
+extinse în care se pot crea alte partiţii logice.
+− crearea partiţiilor de maxim 2 TB fiecare.
+ GPT provine de la GUID Partition Table şi reprezintă cel mai nou standard de administrare a
+hardului (pe 64 de biţi). Este parte a standardului nou UEFI şi utilizează identificatori unici
+globali (GUID) pentru definirea partiţiilor.
+GPT permite:
+− teoretic oricâte partiţii, însă sistemele de operare setează totuşi o limitare la 128 de
+partiţii primare.
+− partiţii de bilioane de TB însă, ca şi în cazul numărului de partiţii, sistemele de operare
+setează totuşi o limitare pentru mărimea partiţiilor la 256 TB fiecare.
+Aplicații pentru lucrul cu partiții:
+ EASEUS Partition Master Home Edition, program de modificat și administrat partiții;
+ Acronis Disk Director;
+ O&O Partition Manager;
+ Paragon Partition Manager.
